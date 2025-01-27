@@ -1,6 +1,6 @@
 ![logo](https://github.com/tasniahema/tasniahema/blob/main/Tasnia%20Hema%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Tasnia Sultana Hema</h1>
-<h3 align="center">I am a final-year CSE student at BUBT. I am passionate about learning new technologies and sharing my knowledge with others.</h3>
+<h3 align="center">I am a final-year Computer Science and Engineering(CSE) student at BUBT. I am passionate about learning new technologies and sharing my knowledge with others.</h3>
 
 <img align="right" alt="coding" width ="300" src="https://media.giphy.com/media/jnWAi68AxKQKLwL1Dy/giphy.gif">
 
