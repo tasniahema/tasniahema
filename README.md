@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tasniahema&label=Profile%20views&color=0e75b6&style=flat" alt="tasniahema" /> </p>
 
-- 🔭 I’m currently working on **Mobile Atomation Tesing**
+- 🔭 I’m currently working on **Mobile Automation Tesing**
 
 - 🌱 I’m currently learning **JAVA,Automation Testing,API etc**
 
